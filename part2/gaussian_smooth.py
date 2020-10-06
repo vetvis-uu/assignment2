@@ -1,4 +1,5 @@
 import vtk
+import os
 
 # Change working directory to allow script to be run from the ParaView shell
 datapath = os.path.dirname(os.path.abspath(__file__))

@@ -2,7 +2,7 @@
 
 In this exercise you will investigate the volume rendering capabilities of Paraview, and also look at different ways that isosurfaces can be represented.
 
-Requirements to pass: Before the deadline, present Part 1 to one of the lab assistants and hand in ParaView state files of working solutions for Parts 2 and 3. See the main course page for more details.
+Requirements to pass: Before the deadline, hand in ParaView state files of working solutions for Parts 1-3. See the main course page for more details.
 
 
 ## Obtaining the source code and datasets
